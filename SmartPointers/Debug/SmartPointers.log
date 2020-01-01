@@ -1,0 +1,3 @@
+﻿  Ptrs.cpp
+Ptrs.obj : error LNK2019: unresolved external symbol "class my_Unique_Ptr<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > __cdecl strg(class my_Unique_Ptr<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >)" (?strg@@YA?AV?$my_Unique_Ptr@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@V1@@Z) referenced in function _main
+C:\Users\blond\source\repos\firstProject\Learning\Debug\SmartPointers.exe : fatal error LNK1120: 1 unresolved externals
